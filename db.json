@@ -1,0 +1,18 @@
+{
+  "contactos": [
+    {
+      "id": "faed",
+      "nombre": "estiven ",
+      "telefono": "15156151655",
+      "correo": "estive@gmail.com",
+      "etiqueta": "estudiante"
+    },
+    {
+      "id": "2e69",
+      "nombre": "juan",
+      "telefono": "549897487",
+      "correo": "esive@ddsfn.com",
+      "etiqueta": "trabajo"
+    }
+  ]
+}

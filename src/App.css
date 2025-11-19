@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #fff;
+  background: var(--gris);
   font-family: system-ui;
 }
 
@@ -29,13 +29,12 @@ body {
 .btn-agregar {
   background: var(--morado);
   color: white;
-  display: flow-root;
-  flex: 1;
+  display: flex;
 }
 
 .btn-eliminar {
   background: #dc2626;
   color: white;
-  display: flow-root;
-  flex: 1;
+  display: flex;
+  
 }
