@@ -11,5 +11,5 @@ titulo: "Agenda ADSO v10",
 // Subtítulo que explica brevemente la aplicación
 subtitulo: "Gestión de contactos conectada a una API remota en Render, con validaciones y mejor experiencia de usuario.",
 // Número de ficha que se puede personalizar
-ficha: "__________"
+ficha: "___19904_______"
 };
