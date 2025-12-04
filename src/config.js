@@ -3,7 +3,7 @@
 // URL base de la API REST desplegada en Render.
 // IMPORTANTE: aquí ya no usamos "http://localhost:3000",
 // sino la URL pública que nos da Render.
-export const API_BASE_URL = "https://agenda-adso-api.onrender.com/contactos";
+export const API_BASE_URL = "https://agenda-adso-api-16w3.onrender.com/contactos";
 // Información general de la aplicación que se usa en la UI
 export const APP_INFO = {
 // Título que se muestra en la interfaz principal
